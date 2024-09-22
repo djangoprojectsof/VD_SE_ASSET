@@ -1,0 +1,6 @@
+user_id,email,name
+1,user1@example.com,user1
+2,user2@example.com,user2
+3,user3@invalid,user3
+1,user1@example.com,user1
+4,user4@example,user4
